@@ -37,8 +37,8 @@
 	3. Atheros Bluetooth Driver - драйвет Bluetooth
 	4. Realtek Card Reader Driver - драйвер для Card Reader, SD карточек
 2. Драйвер для видеокарты [Catalyst Software Suite 15.7.1](http://support.amd.com/ru-ru/download/desktop/previous/detail?os=Windows%207%20-%2064&rev=15.7.1)
-3. Драйвер для чипсета [AMD Chipset Drivers](http://support.amd.com/ru-ru/download/desktop/previous/detail?os=Windows%207%20-%2064&rev=15.7.1)
-4. Драйвер RAID [AMD RAIDXpert Utility](http://support.amd.com/ru-ru/download/desktop/previous/detail?os=Windows%207%20-%2064&rev=15.7.1)
+3. Драйвер для чипсета [AMD Chipset Drivers](http://support.amd.com/ru-ru/download/desktop/previous/detail?os=Windows%207%20-%2064&rev=15.7.1) - в разделе Optional Downloads (опциональные загрузки)
+4. Драйвер RAID [AMD RAIDXpert Utility](http://support.amd.com/ru-ru/download/desktop/previous/detail?os=Windows%207%20-%2064&rev=15.7.1) - в разделе Optional Downloads (опциональные загрузки)
 5. Realtek [High Definition Audio Codecs](http://www.realtek.com.tw/downloads/) - драйвер для звука
 6. [Драйвер сенсорной панели Synaptics](http://www.synaptics.com/resources)
 7. [HP Notebook System BIOS Update (AMD Processors)](http://h20566.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=5086720&swLangOid=8&swEnvOid=4061) - BIOS версии F.48
