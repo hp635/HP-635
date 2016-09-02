@@ -47,12 +47,10 @@
 6. [Драйвер сенсорной панели Synaptics](http://www.synaptics.com/resources)
 7. [HP Notebook System BIOS Update (AMD Processors)](http://h20566.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=5086720&swLangOid=8&swEnvOid=4061) - BIOS версии F.48
 
-<sub>**Примечание:** Чтобы настройки каждый раз не сбивались при переустановки Windows вы можете использовать портативные программы [PortableApps.com](http://portableapps.com/download)</sub>
-
 # Последовательность установки системы и драйверов на HP 635
 
 0. Запишите на флэшку [Xubuntu](http://xubuntu.org/getxubuntu/) через программу [UNetbootin](https://unetbootin.github.io/), загрузитесь с неё и разметьте диск через программу GParted (может находиться в настройка системы и иметь другое название) <sub>**Не используйте разметку диска в Windows 7, могут быть проблемы**</sub>
-1. Скачать [Windows 7 x64 Enterprise Eval](http://care.dlservice.microsoft.com/dl/download/evalx/win7/x64/EN/7600.16385.090713-1255_x64fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENXEVAL_EN_DVD.iso) - это Windows 7 с бесплатным пробным периодом после бесплатной активации через интернет в 180 дней, плюс пробный период можно продлить три раза командой ```slmgr -rearm```
+1. Скачать [Windows 7 x64 Enterprise Eval](http://care.dlservice.microsoft.com/dl/download/evalx/win7/x64/EN/7600.16385.090713-1255_x64fre_enterprise_en-us_EVAL_Eval_Enterprise-GRMCENXEVAL_EN_DVD.iso) - это Windows 7 с бесплатным пробным периодом после бесплатной активации через интернет в течении 180 дней, плюс пробный период можно продлить три раза командой ```slmgr -rearm```
 2. [Rufus](https://rufus.akeo.ie/) - программа для записи Windows 7 на флэшку и установки Windows 7 с неё
 3. Установите все драйвера из раздела [Какие драйвера установить на Windows 7 SP1 x64?](https://github.com/hp635/HP-635#%D0%9A%D0%B0%D0%BA%D0%B8%D0%B5-%D0%B4%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80%D0%B0-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BD%D0%B0-windows-7-sp1-x64) этой статьи
 4. Установите пакет исправлений SP1 для Windows 7 через обновление системы в "Панель управления"
@@ -60,6 +58,8 @@
 6. Установите [kb3125574](http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows6.1-kb3125574-v4-x64_2dafb1d203c8964239af3048b5dd4b1264cd93b9.msu) - коммулятивный пакет обновлений, это сборка всех обновлений для Windows 7 SP1 до лета 2016 года
 7. Посмотрите в раздел [Известные проблемы ноутбука HP 635](https://github.com/hp635/HP-635#%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B0-hp-635) этой статьи и исправьте, что посчитаете нужным
 8. После установки Window 7 установите второй системой [Xubuntu](http://xubuntu.org/getxubuntu/), как резервную
+
+<sub>**Примечание:** Чтобы настройки каждый раз не сбивались при переустановки Windows вы можете использовать портативные программы [PortableApps.com](http://portableapps.com/download)</sub>
 
 # Известные проблемы ноутбука HP 635
 
