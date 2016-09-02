@@ -36,10 +36,10 @@
 # Какие драйвера установить на Windows 7 SP1 x64?
 
 1. Драйвера [на сайте HP](http://h20566.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=5086720&swLangOid=8&swEnvOid=4061)
-	1. Atheros 2011 Wireless LAN Driver - драйвер Wi-Fi
-	2. Realtek Local Area Network (LAN) Driver - драйвер для сетевой карты
-	3. Atheros Bluetooth Driver - драйвет Bluetooth
-	4. Realtek Card Reader Driver - драйвер для Card Reader, SD карточек
+	1. [Atheros 2011 Wireless LAN Driver](http://h20566.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=5086720&swLangOid=8&swEnvOid=4061) - драйвер Wi-Fi
+	2. [Realtek Local Area Network (LAN) Driver](http://h20566.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=5086720&swLangOid=8&swEnvOid=4061) - драйвер для сетевой карты
+	3. [Atheros Bluetooth Driver](http://h20566.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=5086720&swLangOid=8&swEnvOid=4061) - драйвет Bluetooth
+	4. [Realtek Card Reader Driver](http://h20566.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=5086720&swLangOid=8&swEnvOid=4061) - драйвер для Card Reader, SD карточек
 2. Драйвер для видеокарты [Catalyst Software Suite 15.7.1](http://support.amd.com/ru-ru/download/desktop/previous/detail?os=Windows%207%20-%2064&rev=15.7.1)
 3. Драйвер для чипсета [AMD Chipset Drivers](http://support.amd.com/ru-ru/download/desktop/previous/detail?os=Windows%207%20-%2064&rev=15.7.1) - в разделе Optional Downloads (опциональные загрузки)
 4. Драйвер RAID [AMD RAIDXpert Utility](http://support.amd.com/ru-ru/download/desktop/previous/detail?os=Windows%207%20-%2064&rev=15.7.1) - в разделе Optional Downloads (опциональные загрузки)
