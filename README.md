@@ -28,3 +28,26 @@
 * Dishonored 1
 * BioShock Infinity
 * Mass Effect 3
+
+# Какие драйвера установить на Windows 7 SP1 x64?
+
+1. Драйвера [от HP](http://h20566.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=5086720&swLangOid=8&swEnvOid=4061)
+	1. Atheros 2011 Wireless LAN Driver (International) - драйвер Wi-Fi
+	2. Realtek Local Area Network (LAN) Driver (American, International) - драйвер для сетевой карты
+	3. Atheros Bluetooth Driver - драйвет Bluetooth
+	4. HP Notebook System BIOS Update (AMD Processors) (International) - BIOS версии F.48
+	5. Realtek Card Reader Driver - драйвер для Card Reader, SD карточек
+2. Драйвер для видеокарты [Catalyst Software Suite 15.7.1](http://support.amd.com/en-us/download/desktop/legacy?product=legacy3&os=Windows+7+-+64)
+3. Дравер для чипсета
+4. [Драйвер сенсорной панели](http://www.synaptics.com/resources)
+5. Realtek [High Definition Audio Codecs (Software)](http://www.realtek.com.tw/downloads/) - драйвер для звука
+
+# Известные проблемы ноутбука HP 635
+
+1. В системах Linux странное дребезжание колонок. Видимо от того, что драйвер звука с ошибками. Решение: использовать Windows 7
+2. Не регулируется подсветка в Windows XP. Решение: возможно поможет правка реестра
+3. В Lubuntu нету звука из-за ошибки в настройках. Решение: поправить файл конфигурации
+4. Если заряд батареи дойдет до нуля даже на версии BIOS F.48 потом будет показывать не правильный заряд. Решение: переустановить обновление BIOS.
+5. После Windows систем могут быть проблемы с переключением Wi-Fi, тачпада и других устройств в Ubuntu. Решение: сделать сброс настроек BIOS.
+6. Аппаратное ускорение видео плохо работает в браузере Firefox. Решение: использовать Google Chrome или Chromium
+7. По умолчанию в Windows 7 включено "пассивное охлаждение". Что сильно замедляет куллер и ноутбук перегревается. Решение: в настройках питания Windows 7 поставить "активное охлаждение"
