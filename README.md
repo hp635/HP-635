@@ -57,9 +57,9 @@
 4. Установите пакет исправлений SP1 для Windows 7 через обновление системы в "Панель управления"
 5. Установите пакет исправлений [3020369](https://support.microsoft.com/en-us/kb/3020369) - он понадобится для дальнейшей установки обновление
 6. Установите [kb3125574](http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows6.1-kb3125574-v4-x64_2dafb1d203c8964239af3048b5dd4b1264cd93b9.msu) - коммулятивный пакет обновлений, это сборка всех обновлений для Windows 7 SP1 до лета 2016 года
-7. Посмотрите в раздел [Известные проблемы ноутбука HP 635](https://github.com/hp635/HP-635#%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B0-hp-635) этой статьи и исправьте, что посчитаете нужным
-8. После установки Window 7 установите второй системой [Xubuntu](http://xubuntu.org/getxubuntu/), как резервную
-9. Установите обновление для производительности видео: [Platform Update for Windows 7](https://www.microsoft.com/en-us/download/details.aspx?id=36805)
+7. Установите обновление для производительности видео: [Platform Update for Windows 7](https://www.microsoft.com/en-us/download/details.aspx?id=36805)
+8. Посмотрите в раздел [Известные проблемы ноутбука HP 635](https://github.com/hp635/HP-635#%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B0-hp-635) этой статьи и исправьте, что посчитаете нужным
+9. После установки Window 7 установите второй системой [Xubuntu](http://xubuntu.org/getxubuntu/), как резервную
 
 <sub>**Примечание:** Чтобы настройки каждый раз не сбивались при переустановки Windows вы можете использовать портативные программы [PortableApps.com](http://portableapps.com/download)</sub>
 
